@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-labelledby="t d">
-<title id="t">Eunock Yvan AIHOUNHIN — Développeur Full Stack Web &amp; Mobile</title>
-<desc id="d">Bandeau animé : ciel, pétales qui tombent, torii et nom qui se dévoile.</desc>
+<title id="t">Eunock Yvan AIHOUNHIN — Full Stack Web &amp; Mobile Developer</title>
+<desc id="d">Animated banner: night sky, falling petals, a torii gate and a name reveal.</desc>
 <defs>
   <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#05070b"/><stop offset="0.5" stop-color="#0b1220"/><stop offset="0.85" stop-color="#14325f"/><stop offset="1" stop-color="#2f6fdb"/></linearGradient>
   <radialGradient id="moon" cx="0.4" cy="0.4" r="0.7"><stop offset="0" stop-color="#ffffff"/><stop offset="0.7" stop-color="#eaf2ff"/><stop offset="1" stop-color="#bcd7ff"/></radialGradient>
@@ -180,14 +180,14 @@
       <animate attributeName="width" from="0" to="300" dur="1.6s" begin="2.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
     </rect>
     <g font-size="21" fill="#dbe9ff">
-      <text x="58" y="178" opacity="0">Développeur Full Stack Web &amp; Mobile
+      <text x="58" y="178" opacity="0">Full Stack Web &amp; Mobile Developer
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.02;0.07;0.30;0.35;1" dur="12s" begin="3s" repeatCount="indefinite"/></text>
-      <text x="58" y="178" opacity="0">Passionné d'anime et de code
+      <text x="58" y="178" opacity="0">Building secure, reliable applications
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.38;0.63;0.68;1" dur="12s" begin="3s" repeatCount="indefinite"/></text>
-      <text x="58" y="178" opacity="0">Bâtir le numérique béninois, ligne après ligne
+      <text x="58" y="178" opacity="0">From idea to production, end to end
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.66;0.71;0.96;1;1" dur="12s" begin="3s" repeatCount="indefinite"/></text>
     </g>
-    <text x="58" y="214" font-size="15" letter-spacing="4" fill="#7fb2ff" opacity="0">開発者 ・ アニメ ・ コード
+    <text x="58" y="214" font-size="15" letter-spacing="4" fill="#7fb2ff" opacity="0">WEB  ·  MOBILE  ·  APIs
       <animate attributeName="opacity" from="0" to=".9" dur="1.2s" begin="3s" fill="freeze"/></text>
   </g>
   <rect x="1" y="1" width="998" height="298" rx="17" fill="none" stroke="#1d2a44" stroke-width="2"/>
