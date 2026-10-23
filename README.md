@@ -24,17 +24,6 @@ I build secure, reliable web and mobile applications, from the database and API 
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## 🚀 Featured projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**SafePay**](https://github.com/Eunock-web/SafePay) | Open-source Laravel package for secure escrow payments with FedaPay: signed webhooks, asynchronous jobs and transaction history. | PHP, Laravel, FedaPay |
-| [**FinCoach**](https://github.com/FinCoachs) | AI-assisted financial coach. Laravel backend (authentication, transactions, AI session) and a mobile app that detects Mobile Money transactions from SMS. | Laravel, React Native, Docker |
-| [**BeninTravel**](https://github.com/Eunock-web/BeninTravel) · [demo](https://benin-travel-tau.vercel.app) | Trip booking platform for Benin: search, filters (budget, trip type, rating), detailed offers and booking confirmation. Fully responsive. | React, TypeScript, Vite |
-| [**BookHaven**](https://github.com/Eunock-web/BookHaven) · [demo](https://bookhaven-tau.vercel.app) | Online bookstore: browse and discover books with a responsive interface. | React, Vite |
-
-<img src="assets/divider.svg" alt="" width="100%">
-
 ## 🛠️ Tech stack
 
 - **Languages**: `JavaScript` `TypeScript` `PHP` `Python`
