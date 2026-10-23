@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Eunock Yvan AIHOUNHIN — Développeur Full Stack Web & Mobile" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" alt="Eunock Yvan AIHOUNHIN — Développeur Full Stack Web & Mobile" width="100%">
+</picture>
 
 </div>
 
@@ -13,7 +17,11 @@ Développeur issu de l'ESGIS Bénin (licence en architecture logicielle), je con
 Rigoureux, curieux et attaché à la qualité du code, j'apprends en continu au contact de projets réels. Passionné d'anime comme de développement, j'aime construire, apprendre et progresser sans cesse.
 
 <div align="center">
-<img src="assets/terminal.svg" alt="Profil présenté sous forme de code : rôle, stack, passions, valeurs et mission" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg">
+  <img src="assets/terminal-light.svg" alt="Profil présenté sous forme de code : rôle, stack, passions, valeurs et mission" width="100%">
+</picture>
 </div>
 
 <img src="assets/divider.svg" alt="" width="100%">
