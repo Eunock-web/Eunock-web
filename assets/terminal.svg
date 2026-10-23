@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-labelledby="t d">
+<title id="t">Profil en code</title>
+<desc id="d">Fenêtre de code animée qui présente le rôle, la stack, les passions, les valeurs et la mission d'Eunock.</desc>
+<defs>
+  <linearGradient id="win" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#12163a"/><stop offset="1" stop-color="#1c1240"/></linearGradient>
+  <clipPath id="c0"><rect x="40" y="92" width="0" height="26"><animate attributeName="width" values="0;0;920;920;0" keyTimes="0;0.0375;0.1000;0.95;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath><clipPath id="c1"><rect x="40" y="120" width="0" height="26"><animate attributeName="width" values="0;0;920;920;0" keyTimes="0;0.1094;0.1719;0.95;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath><clipPath id="c2"><rect x="40" y="148" width="0" height="26"><animate attributeName="width" values="0;0;920;920;0" keyTimes="0;0.1812;0.2437;0.95;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath><clipPath id="c3"><rect x="40" y="176" width="0" height="26"><animate attributeName="width" values="0;0;920;920;0" keyTimes="0;0.2531;0.3156;0.95;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath><clipPath id="c4"><rect x="40" y="204" width="0" height="26"><animate attributeName="width" values="0;0;920;920;0" keyTimes="0;0.3250;0.3875;0.95;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath><clipPath id="c5"><rect x="40" y="232" width="0" height="26"><animate attributeName="width" values="0;0;920;920;0" keyTimes="0;0.3969;0.4594;0.95;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath><clipPath id="c6"><rect x="40" y="260" width="0" height="26"><animate attributeName="width" values="0;0;920;920;0" keyTimes="0;0.4687;0.5312;0.95;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath><clipPath id="c7"><rect x="40" y="288" width="0" height="26"><animate attributeName="width" values="0;0;920;920;0" keyTimes="0;0.5406;0.6031;0.95;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath>
+</defs>
+<rect x="1" y="1" width="998" height="338" rx="16" fill="url(#win)" stroke="#3a3f7a" stroke-width="2"/>
+<path d="M1,17 a16,16 0 0 1 16,-16 H983 a16,16 0 0 1 16,16 V50 H1Z" fill="#0c0f2b"/>
+<circle cx="30" cy="26" r="7" fill="#ff5f7a"/><circle cx="54" cy="26" r="7" fill="#ffc857"/><circle cx="78" cy="26" r="7" fill="#5ee6a8"/>
+<text x="500.0" y="31" text-anchor="middle" font-family="'SFMono-Regular',Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="14" fill="#8a91c9">eunock.config.ts</text>
+<g font-family="'SFMono-Regular',Consolas,'Liberation Mono','DejaVu Sans Mono',monospace" font-size="18">
+<text x="40" y="112" xml:space="preserve" clip-path="url(#c0)"><tspan fill="#6a72a8">// Développeur · Passionné d'anime</tspan></text>
+<text x="40" y="140" xml:space="preserve" clip-path="url(#c1)"><tspan fill="#ff79c6">const </tspan><tspan fill="#8be9fd">eunock</tspan><tspan fill="#e6e8f5"> = {</tspan></text>
+<text x="40" y="168" xml:space="preserve" clip-path="url(#c2)"><tspan fill="#bd93f9">  role</tspan><tspan fill="#e6e8f5">: </tspan><tspan fill="#f1fa8c">"Développeur Full Stack Web &amp; Mobile"</tspan><tspan fill="#e6e8f5">,</tspan></text>
+<text x="40" y="196" xml:space="preserve" clip-path="url(#c3)"><tspan fill="#bd93f9">  stack</tspan><tspan fill="#e6e8f5">: [</tspan><tspan fill="#f1fa8c">"Laravel"</tspan><tspan fill="#e6e8f5">, </tspan><tspan fill="#f1fa8c">"NestJS"</tspan><tspan fill="#e6e8f5">, </tspan><tspan fill="#f1fa8c">"React"</tspan><tspan fill="#e6e8f5">, </tspan><tspan fill="#f1fa8c">"React Native"</tspan><tspan fill="#e6e8f5">],</tspan></text>
+<text x="40" y="224" xml:space="preserve" clip-path="url(#c4)"><tspan fill="#bd93f9">  passions</tspan><tspan fill="#e6e8f5">: [</tspan><tspan fill="#f1fa8c">"Anime"</tspan><tspan fill="#e6e8f5">, </tspan><tspan fill="#f1fa8c">"Code propre"</tspan><tspan fill="#e6e8f5">, </tspan><tspan fill="#f1fa8c">"Open source"</tspan><tspan fill="#e6e8f5">],</tspan></text>
+<text x="40" y="252" xml:space="preserve" clip-path="url(#c5)"><tspan fill="#bd93f9">  valeurs</tspan><tspan fill="#e6e8f5">: [</tspan><tspan fill="#f1fa8c">"Discipline"</tspan><tspan fill="#e6e8f5">, </tspan><tspan fill="#f1fa8c">"Motivation"</tspan><tspan fill="#e6e8f5">, </tspan><tspan fill="#f1fa8c">"Apprentissage continu"</tspan><tspan fill="#e6e8f5">],</tspan></text>
+<text x="40" y="280" xml:space="preserve" clip-path="url(#c6)"><tspan fill="#bd93f9">  mission</tspan><tspan fill="#e6e8f5">: </tspan><tspan fill="#f1fa8c">"Construire le numérique béninois"</tspan><tspan fill="#e6e8f5">,</tspan></text>
+<text x="40" y="308" xml:space="preserve" clip-path="url(#c7)"><tspan fill="#e6e8f5">};</tspan></text>
+</g>
+<!-- sakura décoratif -->
+<g opacity=".9" transform="translate(940 284)">
+  <animateTransform attributeName="transform" type="translate" values="940 284;940 276;940 284" dur="4s" repeatCount="indefinite"/>
+  <g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="14s" repeatCount="indefinite"/>
+    <ellipse cx="0" cy="-12" rx="7" ry="11" fill="#ff9cc0" opacity=".85" transform="rotate(0)"/><ellipse cx="0" cy="-12" rx="7" ry="11" fill="#ff9cc0" opacity=".85" transform="rotate(72)"/><ellipse cx="0" cy="-12" rx="7" ry="11" fill="#ff9cc0" opacity=".85" transform="rotate(144)"/><ellipse cx="0" cy="-12" rx="7" ry="11" fill="#ff9cc0" opacity=".85" transform="rotate(216)"/><ellipse cx="0" cy="-12" rx="7" ry="11" fill="#ff9cc0" opacity=".85" transform="rotate(288)"/>
+    <circle r="4" fill="#ffe3a8"/>
+  </g>
+</g>
+</svg>
