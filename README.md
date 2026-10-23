@@ -36,8 +36,7 @@ I build secure, reliable web and mobile applications, from the database and API 
 
 ## 🌱 Currently
 
-- Building the **NestJS** backend of an AI-powered application for a client.
-- Maintaining **SafePay**, my open-source package.
+- Building the backend of an AI-powered application.
 - Learning every day: tech watch and research.
 
 <img src="assets/divider.svg" alt="" width="100%">
