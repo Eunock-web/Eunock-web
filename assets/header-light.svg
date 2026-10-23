@@ -1,0 +1,195 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" width="1000" height="300" role="img" aria-labelledby="t d">
+<title id="t">Eunock Yvan AIHOUNHIN — Développeur Full Stack Web &amp; Mobile</title>
+<desc id="d">Bandeau animé : ciel, pétales qui tombent, torii et nom qui se dévoile.</desc>
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="0.55" stop-color="#f1f6ff"/><stop offset="0.85" stop-color="#cfe2ff"/><stop offset="1" stop-color="#9cc4ff"/></linearGradient>
+  <radialGradient id="moon" cx="0.4" cy="0.4" r="0.7"><stop offset="0" stop-color="#9cc8ff"/><stop offset="0.7" stop-color="#5aa2ff"/><stop offset="1" stop-color="#2f7df6"/></radialGradient>
+  <radialGradient id="halo"><stop offset="0" stop-color="#4c9aff" stop-opacity=".35"/><stop offset="1" stop-color="#4c9aff" stop-opacity="0"/></radialGradient>
+  <linearGradient id="petal" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#dcebff"/><stop offset="1" stop-color="#4c9aff"/></linearGradient>
+  <linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#2f7df6"/><stop offset="1" stop-color="#8ec5ff"/></linearGradient>
+  <clipPath id="nameClip"><rect x="56" y="70" width="0" height="64">
+    <animate attributeName="width" from="0" to="760" dur="2.6s" begin="0.4s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
+  </rect></clipPath>
+  <clipPath id="round"><rect width="1000" height="300" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+  <rect width="1000" height="300" fill="url(#sky)"/>
+  <circle cx="473" cy="127" r="1.6" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.6s" begin="-2.3s" repeatCount="indefinite"/></circle><circle cx="199" cy="139" r="1.6" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="4.0s" begin="-3.2s" repeatCount="indefinite"/></circle><circle cx="106" cy="122" r="1.3" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="2.6s" begin="-2.2s" repeatCount="indefinite"/></circle><circle cx="921" cy="18" r="1.6" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="4.9s" begin="-2.6s" repeatCount="indefinite"/></circle><circle cx="640" cy="48" r="0.8" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="4.5s" begin="-0.3s" repeatCount="indefinite"/></circle><circle cx="46" cy="56" r="1.0" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.9s" begin="-3.1s" repeatCount="indefinite"/></circle><circle cx="344" cy="120" r="1.0" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.7s" begin="-2.6s" repeatCount="indefinite"/></circle><circle cx="521" cy="9" r="0.8" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.5s" begin="-1.1s" repeatCount="indefinite"/></circle><circle cx="574" cy="29" r="1.3" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.1s" begin="-0.9s" repeatCount="indefinite"/></circle><circle cx="305" cy="15" r="0.8" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.8s" begin="-0.4s" repeatCount="indefinite"/></circle><circle cx="120" cy="82" r="1.6" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="2.4s" begin="-0.1s" repeatCount="indefinite"/></circle><circle cx="711" cy="8" r="1.0" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="2.8s" begin="-3.6s" repeatCount="indefinite"/></circle><circle cx="491" cy="104" r="1.6" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.4s" begin="-2.3s" repeatCount="indefinite"/></circle><circle cx="213" cy="77" r="1.3" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="2.4s" begin="-1.3s" repeatCount="indefinite"/></circle><circle cx="429" cy="38" r="1.0" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="2.9s" begin="-0.4s" repeatCount="indefinite"/></circle><circle cx="71" cy="127" r="1.6" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="2.7s" begin="-2.2s" repeatCount="indefinite"/></circle><circle cx="468" cy="138" r="1.0" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="5.0s" begin="-3.1s" repeatCount="indefinite"/></circle><circle cx="439" cy="106" r="0.8" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.3s" begin="-4.0s" repeatCount="indefinite"/></circle><circle cx="10" cy="77" r="1.3" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="5.0s" begin="-0.1s" repeatCount="indefinite"/></circle><circle cx="201" cy="108" r="0.8" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="2.3s" begin="-0.6s" repeatCount="indefinite"/></circle><circle cx="462" cy="74" r="0.8" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="4.4s" begin="-1.3s" repeatCount="indefinite"/></circle><circle cx="313" cy="106" r="0.8" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="2.4s" begin="-0.8s" repeatCount="indefinite"/></circle><circle cx="661" cy="70" r="0.8" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.9s" begin="-1.5s" repeatCount="indefinite"/></circle><circle cx="474" cy="40" r="1.6" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="4.5s" begin="-0.5s" repeatCount="indefinite"/></circle><circle cx="405" cy="54" r="1.0" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.1s" begin="-0.9s" repeatCount="indefinite"/></circle><circle cx="635" cy="71" r="1.0" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="2.6s" begin="-2.5s" repeatCount="indefinite"/></circle><circle cx="577" cy="58" r="1.6" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="4.7s" begin="-2.4s" repeatCount="indefinite"/></circle><circle cx="441" cy="20" r="0.8" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="2.5s" begin="-2.0s" repeatCount="indefinite"/></circle><circle cx="271" cy="69" r="1.6" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="2.9s" begin="-3.3s" repeatCount="indefinite"/></circle><circle cx="620" cy="133" r="1.3" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.7s" begin="-3.7s" repeatCount="indefinite"/></circle><circle cx="80" cy="40" r="1.0" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.5s" begin="-2.6s" repeatCount="indefinite"/></circle><circle cx="640" cy="26" r="1.3" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="2.8s" begin="-3.7s" repeatCount="indefinite"/></circle><circle cx="776" cy="12" r="0.8" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.0s" begin="-1.8s" repeatCount="indefinite"/></circle><circle cx="71" cy="19" r="1.0" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.0s" begin="-2.1s" repeatCount="indefinite"/></circle><circle cx="144" cy="31" r="1.3" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="2.6s" begin="-1.8s" repeatCount="indefinite"/></circle><circle cx="348" cy="141" r="1.0" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.9s" begin="-3.7s" repeatCount="indefinite"/></circle><circle cx="496" cy="99" r="1.3" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="4.9s" begin="-0.1s" repeatCount="indefinite"/></circle><circle cx="661" cy="27" r="1.6" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="2.4s" begin="-1.2s" repeatCount="indefinite"/></circle><circle cx="149" cy="26" r="0.8" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.5s" begin="-1.5s" repeatCount="indefinite"/></circle><circle cx="55" cy="41" r="1.3" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.2s" begin="-2.7s" repeatCount="indefinite"/></circle><circle cx="932" cy="27" r="1.6" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="4.8s" begin="-0.1s" repeatCount="indefinite"/></circle><circle cx="521" cy="11" r="1.6" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.3s" begin="-0.0s" repeatCount="indefinite"/></circle><circle cx="83" cy="28" r="0.8" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="4.0s" begin="-4.0s" repeatCount="indefinite"/></circle><circle cx="910" cy="114" r="1.3" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.3s" begin="-2.9s" repeatCount="indefinite"/></circle><circle cx="604" cy="125" r="1.6" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.5s" begin="-2.2s" repeatCount="indefinite"/></circle><circle cx="541" cy="139" r="0.8" fill="#4c9aff"><animate attributeName="opacity" values="0.1;0.7;0.1" dur="3.1s" begin="-0.4s" repeatCount="indefinite"/></circle>
+  <circle cx="815" cy="118" r="120" fill="url(#halo)"><animate attributeName="opacity" values=".6;1;.6" dur="6s" repeatCount="indefinite"/></circle>
+  <circle cx="815" cy="118" r="58" fill="url(#moon)"/>
+  <g fill="#ffffff" opacity=".35"><circle cx="798" cy="104" r="9"/><circle cx="832" cy="132" r="6"/><circle cx="806" cy="140" r="4"/></g>
+  <path d="M0,232 L90,176 L170,222 L270,150 L380,226 L470,184 L580,236 L690,168 L790,230 L890,190 L1000,236 L1000,300 L0,300Z" fill="#bcd6fb" opacity=".95"/>
+  <path d="M0,262 L120,224 L240,262 L360,232 L500,268 L640,236 L780,270 L900,244 L1000,266 L1000,300 L0,300Z" fill="#8fb9f2"/>
+  <g fill="#0b0b0b">
+    <path d="M668,196 Q748,178 828,196 L832,208 Q748,191 664,208Z"/>
+    <rect x="684" y="214" width="128" height="8"/>
+    <rect x="696" y="200" width="12" height="76"/><rect x="788" y="200" width="12" height="76"/>
+    <rect x="740" y="190" width="16" height="12"/>
+  </g>
+  <rect x="0" y="262" width="1000" height="40" fill="#0b0b0b"/>
+  <g opacity="0.70">
+  <animateMotion path="M5,-14 C107,70 -8,150 94,215 S81,280 183,318" dur="16.7s" begin="-1.9s" repeatCount="indefinite"/>
+  <g transform="scale(1.21)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="409" dur="6.2s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.77">
+  <animateMotion path="M374,-14 C470,70 404,150 500,215 S530,280 626,318" dur="10.4s" begin="-9.4s" repeatCount="indefinite"/>
+  <g transform="scale(1.13)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="408" dur="6.6s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.77">
+  <animateMotion path="M473,-14 C538,70 493,150 558,215 S578,280 643,318" dur="14.1s" begin="-11.3s" repeatCount="indefinite"/>
+  <g transform="scale(1.19)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="-278" dur="8.7s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.95">
+  <animateMotion path="M389,-14 C434,70 421,150 466,215 S498,280 543,318" dur="10.1s" begin="-3.5s" repeatCount="indefinite"/>
+  <g transform="scale(1.28)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="-250" dur="5.5s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.79">
+  <animateMotion path="M925,-14 C1031,70 914,150 1020,215 S1009,280 1115,318" dur="16.4s" begin="-13.6s" repeatCount="indefinite"/>
+  <g transform="scale(0.95)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="352" dur="8.4s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.81">
+  <animateMotion path="M886,-14 C931,70 942,150 987,215 S1043,280 1088,318" dur="9.6s" begin="-0.3s" repeatCount="indefinite"/>
+  <g transform="scale(1.27)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="326" dur="7.6s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.74">
+  <animateMotion path="M-1,-14 C73,70 67,150 141,215 S209,280 283,318" dur="10.1s" begin="-4.6s" repeatCount="indefinite"/>
+  <g transform="scale(0.72)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="-379" dur="5.2s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.76">
+  <animateMotion path="M196,-14 C283,70 226,150 313,215 S343,280 430,318" dur="9.9s" begin="-5.3s" repeatCount="indefinite"/>
+  <g transform="scale(1.12)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="-355" dur="8.3s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.78">
+  <animateMotion path="M484,-14 C528,70 522,150 566,215 S605,280 649,318" dur="14.7s" begin="-11.1s" repeatCount="indefinite"/>
+  <g transform="scale(1.05)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="-237" dur="6.4s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.98">
+  <animateMotion path="M984,-14 C1052,70 1054,150 1122,215 S1193,280 1261,318" dur="17.0s" begin="-2.7s" repeatCount="indefinite"/>
+  <g transform="scale(1.25)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="-285" dur="7.9s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.80">
+  <animateMotion path="M226,-14 C314,70 255,150 343,215 S373,280 461,318" dur="12.6s" begin="-7.9s" repeatCount="indefinite"/>
+  <g transform="scale(1.29)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="298" dur="8.9s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.97">
+  <animateMotion path="M162,-14 C217,70 259,150 314,215 S411,280 466,318" dur="15.9s" begin="-12.7s" repeatCount="indefinite"/>
+  <g transform="scale(1.30)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="-242" dur="8.9s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.72">
+  <animateMotion path="M594,-14 C636,70 680,150 722,215 S809,280 851,318" dur="16.8s" begin="-15.7s" repeatCount="indefinite"/>
+  <g transform="scale(0.87)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="309" dur="6.8s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.71">
+  <animateMotion path="M823,-14 C871,70 933,150 981,215 S1091,280 1139,318" dur="11.2s" begin="-10.3s" repeatCount="indefinite"/>
+  <g transform="scale(0.84)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="384" dur="7.1s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.98">
+  <animateMotion path="M247,-14 C343,70 271,150 367,215 S391,280 487,318" dur="10.2s" begin="-5.3s" repeatCount="indefinite"/>
+  <g transform="scale(1.17)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="328" dur="5.3s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.90">
+  <animateMotion path="M413,-14 C474,70 468,150 529,215 S584,280 645,318" dur="13.2s" begin="-3.8s" repeatCount="indefinite"/>
+  <g transform="scale(1.17)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="259" dur="8.8s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.86">
+  <animateMotion path="M386,-14 C489,70 381,150 484,215 S480,280 583,318" dur="15.8s" begin="-15.3s" repeatCount="indefinite"/>
+  <g transform="scale(1.04)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="-285" dur="7.0s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.73">
+  <animateMotion path="M732,-14 C841,70 686,150 795,215 S750,280 859,318" dur="13.3s" begin="-0.6s" repeatCount="indefinite"/>
+  <g transform="scale(1.30)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="-305" dur="5.7s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.74">
+  <animateMotion path="M899,-14 C970,70 940,150 1011,215 S1053,280 1124,318" dur="16.4s" begin="-13.1s" repeatCount="indefinite"/>
+  <g transform="scale(0.96)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="306" dur="6.7s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.93">
+  <animateMotion path="M935,-14 C1008,70 989,150 1062,215 S1116,280 1189,318" dur="11.5s" begin="-2.2s" repeatCount="indefinite"/>
+  <g transform="scale(1.10)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="-359" dur="5.1s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.85">
+  <animateMotion path="M357,-14 C442,70 351,150 436,215 S431,280 516,318" dur="10.8s" begin="-7.4s" repeatCount="indefinite"/>
+  <g transform="scale(0.91)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="-338" dur="7.0s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.89">
+  <animateMotion path="M211,-14 C306,70 241,150 336,215 S366,280 461,318" dur="14.0s" begin="-10.0s" repeatCount="indefinite"/>
+  <g transform="scale(1.16)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="-276" dur="8.3s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.86">
+  <animateMotion path="M287,-14 C394,70 308,150 415,215 S437,280 544,318" dur="10.6s" begin="-6.7s" repeatCount="indefinite"/>
+  <g transform="scale(1.12)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="-397" dur="7.3s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+<g opacity="0.79">
+  <animateMotion path="M239,-14 C302,70 265,150 328,215 S355,280 418,318" dur="16.3s" begin="-10.2s" repeatCount="indefinite"/>
+  <g transform="scale(0.93)"><g>
+    <animateTransform attributeName="transform" type="rotate" from="0" to="334" dur="8.7s" repeatCount="indefinite"/>
+    <path d="M0,-6 C5,-6 8,-1 5,4 C3,7 1,6 0,3 C-1,6 -3,7 -5,4 C-8,-1 -5,-6 0,-6Z" fill="url(#petal)"/>
+  </g></g></g>
+
+  <g font-family="'Segoe UI','Helvetica Neue',Arial,'Noto Sans CJK JP','Hiragino Sans','Yu Gothic',sans-serif">
+    <g clip-path="url(#nameClip)">
+      <text x="56" y="118" font-size="40" font-weight="800" letter-spacing="5" fill="#0b0b0b">EUNOCK YVAN AIHOUNHIN</text>
+    </g>
+    <rect x="58" y="134" width="0" height="4" rx="2" fill="url(#bar)">
+      <animate attributeName="width" from="0" to="300" dur="1.6s" begin="2.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.4 0 0.2 1"/>
+    </rect>
+    <g font-size="21" fill="#1f2937">
+      <text x="58" y="178" opacity="0">Développeur Full Stack Web &amp; Mobile
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.02;0.07;0.30;0.35;1" dur="12s" begin="3s" repeatCount="indefinite"/></text>
+      <text x="58" y="178" opacity="0">Passionné d'anime et de code
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.38;0.63;0.68;1" dur="12s" begin="3s" repeatCount="indefinite"/></text>
+      <text x="58" y="178" opacity="0">Bâtir le numérique béninois, ligne après ligne
+        <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.66;0.71;0.96;1;1" dur="12s" begin="3s" repeatCount="indefinite"/></text>
+    </g>
+    <text x="58" y="214" font-size="15" letter-spacing="4" fill="#2f7df6" opacity="0">開発者 ・ アニメ ・ コード
+      <animate attributeName="opacity" from="0" to=".9" dur="1.2s" begin="3s" fill="freeze"/></text>
+  </g>
+  <rect x="1" y="1" width="998" height="298" rx="17" fill="none" stroke="#cfdcf0" stroke-width="2"/>
+</g>
+</svg>
