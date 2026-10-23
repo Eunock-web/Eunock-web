@@ -12,7 +12,7 @@
 
 **Full Stack Web & Mobile Developer** · Benin 🇧🇯
 
-I build secure, reliable web and mobile applications, from the database and API to the user interface. I care about clean code, continuous learning, and technology that makes a real difference in Benin and across West Africa.
+I build secure, reliable web and mobile applications, from the database and API to the user interface. I care about clean code, and continuous learning .
 
 <div align="center">
 <picture>
